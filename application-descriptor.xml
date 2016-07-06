@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<nativeAndroidApp id="com_redsys_test_mfpushnativeapptowl" platformVersion="7.1.0.00.20160513-1006" version="1.0" xmlns="http://www.worklight.com/native-android-descriptor">
+<nativeAndroidApp id="com_redsys_test_mfpushnativeapptowl" platformVersion="7.1.0.00.20160513-1006" version="1.2" xmlns="http://www.worklight.com/native-android-descriptor">
     <displayName>Hello MobileFirst Server!</displayName>
     <description>Hello MobileFirst Server!</description>
     <packageName>com.redsys.test.mfpushnativeapptowl</packageName>
